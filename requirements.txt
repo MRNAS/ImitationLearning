@@ -1,0 +1,5 @@
+mock==1.0.1
+numpydoc
+Sphinx==1.2.3
+sphinx_rtd_theme
+tensorflow==1.13.1
